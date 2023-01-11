@@ -1,7 +1,7 @@
 # Learning_AWS_CloudFundamentals
 AWS (Amazon Web Services) provides a number of different migration strategies that can be used to move applications and data to the cloud. The most common AWS migration strategies include:
 
-Lift and Shift: This migration strategy involves moving existing applications and data to the cloud without making any changes to the application architecture. This approach is often used for applications that are already running on virtual machines and can be easily moved to the AWS Elastic Compute Cloud (EC2).
+- Lift and Shift: This migration strategy involves moving existing applications and data to the cloud without making any changes to the application architecture. This approach is often used for applications that are already running on virtual machines and can be easily moved to the AWS Elastic Compute Cloud (EC2).
 
 - Re-architecting: This migration strategy involves redesigning the application architecture to take advantage of cloud-native services such as AWS Elastic Beanstalk, AWS Lambda, or Amazon Elastic Container Service (ECS). This approach is often used for applications that are not well-suited to the lift-and-shift approach or need to be scaled up and down based on demand.
 
